@@ -1,0 +1,39 @@
+{
+    "name":"TrulySimple ContentBox Theme",
+    "version":"1.0.0",
+    "author":"Ortus Solutions, Corp",
+    "homepage":"https://github.com/Ortus-Solutions/cbtheme-truly-simple",
+    "documentation":"https://github.com/Ortus-Solutions/cbtheme-truly-simple",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/Ortus-Solutions/cbtheme-truly-simple.git"
+    },
+    "bugs":"https://github.com/Ortus-Solutions/cbtheme-truly-simple/issues",
+    "slug":"cbTheme-truly-simple",
+    "shortDescription":"An awesome free layout called Reddy",
+    "type":"contentbox-layouts",
+    "keywords":"contentbox,theme",
+    "license":[
+        {
+            "type":"Apache2",
+            "url":"https://raw.githubusercontent.com/Ortus-Solutions/cbtheme-truly-simple/master/LICENSE"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        
+    },
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ]
+}
