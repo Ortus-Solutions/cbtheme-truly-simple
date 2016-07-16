@@ -1,22 +1,26 @@
 {
-    "name":"TrulySimple ContentBox Theme",
-    "version":"1.0.0",
-    "author":"Ortus Solutions, Corp",
-    "homepage":"https://github.com/Ortus-Solutions/cbtheme-truly-simple",
-    "documentation":"https://github.com/Ortus-Solutions/cbtheme-truly-simple",
+    "name":"ContentBox Theme - Truly Simple",
+    "version":"2.0.0",
+    "slug":"cbtheme-truly-simple",
+    "location" : "https://github.com/contentbox-themes/cbtheme-truly-simple/archive/master.zip",
+    "author":"Ortus Solutions",
+    "homepage":"http://www.ortussolutions.com/products/contentbox",
+    "documentation":"https://github.com/contentbox-themes/cbtheme-truly-simple",
     "repository":{
         "type":"git",
-        "url":"https://github.com/Ortus-Solutions/cbtheme-truly-simple.git"
+        "URL":"https://github.com/contentbox-themes/cbtheme-truly-simple"
     },
-    "bugs":"https://github.com/Ortus-Solutions/cbtheme-truly-simple/issues",
-    "slug":"cbTheme-truly-simple",
-    "shortDescription":"Like the title says, a Truly Simple Design",
-    "type":"contentbox-layouts",
-    "keywords":"contentbox,theme",
+    "bugs":"https://github.com/contentbox-themes/cbtheme-truly-simple/issues",
+    "shortDescription":"Truly Simple ContentBox Theme",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-themes",
+    "projectURL":"",
     "license":[
         {
             "type":"Apache2",
-            "url":"https://raw.githubusercontent.com/Ortus-Solutions/cbtheme-truly-simple/master/LICENSE"
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
         }
     ],
     "contributors":[
@@ -33,7 +37,6 @@
     },
     "ignore":[
         "**/.*",
-        "test",
         "tests"
     ]
 }
